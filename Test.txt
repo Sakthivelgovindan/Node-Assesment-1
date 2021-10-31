@@ -1,0 +1,1 @@
+Synchronous - Write data to file data to append - Asynchronouslydata to append - Synchronous string to append to file  string to append to file 
