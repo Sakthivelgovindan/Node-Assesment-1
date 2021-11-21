@@ -1,0 +1,1 @@
+INSERT INTO `employees` (`empId`, `empFirstName`, `empLastName`, `empAge`, `empEmailId`) VALUES ('1', 'Jon', 'Snow', '30', 'jonsnow@gmail.com');
